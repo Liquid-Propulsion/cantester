@@ -1,0 +1,16 @@
+github.com/Liquid-Propulsion/canpackets v0.1.3 h1:BOknbe9zvUzSTrgQ+9BpAhkoaC5/aRQpio10sCYtaHU=
+github.com/Liquid-Propulsion/canpackets v0.1.3/go.mod h1:iqO+YVccASJR6BFcHxHPBkqVGLDbuN7phTKN/6ovCTQ=
+github.com/angelodlfrtr/go-can v0.0.4 h1:/Wj3ZQ2YWG2dfoHqZHchfP2sZ/UccbrEBTV0nj/HRKo=
+github.com/angelodlfrtr/go-can v0.0.4/go.mod h1:e9NV8485R6+MwVHY1424SxwpCzsIRYd6I8noHvgHzQQ=
+github.com/angelodlfrtr/serial v0.0.0-20190912094943-d028474db63c/go.mod h1:kGJNzwu4M6uVHZPXuE7m6+f3BvYrhFH76a90n69CxEk=
+github.com/brutella/can v0.0.1/go.mod h1:NYDxbQito3w4+4DcjWs/fpQ3xyaFdpXw/KYqtZFU98k=
+github.com/davecgh/go-spew v1.1.1/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSsI+c5H38=
+github.com/hit9/bitproto/lib/go v0.0.0-20210802235846-397984bf96c1 h1:SwdRNUs7wATsu2i7UUM3pfa9sao17XDZzE2cFxKadOI=
+github.com/hit9/bitproto/lib/go v0.0.0-20210802235846-397984bf96c1/go.mod h1:WN+TYCfaxIU95qhMbPEVKlK6QiDuE3NRklcst5ZhGcQ=
+github.com/pmezard/go-difflib v1.0.0/go.mod h1:iKH77koFhYxTK1pcRnkKkqfTogsbg7gZNVY4sRDYZ/4=
+github.com/spf13/cast v1.4.1 h1:s0hze+J0196ZfEMTs80N7UlFt0BDuQ7Q+JDnHiMWKdA=
+github.com/spf13/cast v1.4.1/go.mod h1:Qx5cxh0v+4UWYiBimWS+eyWzqEqokIECu5etghLkUJE=
+github.com/stretchr/testify v1.2.2/go.mod h1:a8OnRcib4nhh0OaRAV+Yts87kKdq0PP7pXfy6kDkUVs=
+github.com/webview/webview v0.0.0-20210330151455-f540d88dde4e h1:z780M7mCrdt6KiICeW9SGirvQjxDlrVU+n99FO93nbI=
+github.com/webview/webview v0.0.0-20210330151455-f540d88dde4e/go.mod h1:rpXAuuHgyEJb6kXcXldlkOjU6y4x+YcASKKXJNUhh0Y=
+golang.org/x/sys v0.0.0-20181213200352-4d1cda033e06/go.mod h1:STP8DvDyc/dI5b8T5hshtkjS+E42TnysNCUPdjciGhY=
